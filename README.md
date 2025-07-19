@@ -1,5 +1,7 @@
 # Outrunning the Millennium FALCON: Speed Records for FALCON on FPGAs
-Anonymous submission for TCHES 2026
+Anonymous submission for TCHES 2026.
+
+Scroll below for key figures and IP configurations.
 
 # Key figures and tables
 <div style="text-align: center;">
